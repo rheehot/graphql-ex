@@ -32,3 +32,8 @@ GraphQL Sample Project
    # or you can use npm
    $ npm run serve
    ```
+
+
+##### 
+study doc link
+https://docs.google.com/presentation/d/1hnEzv-Me8ynmA8vIHcwpgOK6D9UGWwfgH3S-ZRVAxkk/edit?fbclid=IwAR27UajLHAUt-isCut4_aGzGRpuhHTOt5L7DumEo0egzqUU5Jqg38mJsnaA
